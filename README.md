@@ -1,7 +1,4 @@
 ### Hello world 👋
-Here’s your updated GitHub intro with the additional mentions:
-
----
 
 **Hello, I'm Harsimran.**  
 *(Pronounced: her-sim-run)*
@@ -16,9 +13,6 @@ My achievements are deeply rooted in the support I’ve received from family, fr
 
 While I’ve experienced both successes and failures in the world of software and technology, these experiences have shaped my perspectives. I'm always open to exploring new ideas and embracing diverse viewpoints. I look forward to collaborating with you.
 
----
-
-This version highlights your expertise in multi-cloud environments, contributions to Kubernetes, and your focus on IAM and security while maintaining a professional tone.
 /hsm
 
 
