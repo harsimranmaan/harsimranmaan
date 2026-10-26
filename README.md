@@ -1,6 +1,6 @@
 ### Hi, I’m Harsimran 👋
 
-*(Pronounced: her-sim-run) *
+_Pronounced: her-sim-run_
 
 
 ## Technology Leader | Cybersecurity | Cloud Architecture | AI & Automation
