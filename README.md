@@ -1,25 +1,34 @@
-### Hello world 👋
+### Hi, I’m Harsimran 👋
 
-**Hello, I'm Harsimran.**  
-*(Pronounced: her-sim-run)*
-
-Don't worry if you find my name tricky to pronounce—I'm not easily offended. Friends and colleagues often call me Harsimran, Maan, or simply HSM.
-
-As a dedicated Liverpool FC supporter, I rarely miss a game. If you’ve discovered me through my prediction about Liverpool winning the league buried in a seed passphrase at a datacenter in Germany—yes, that was me (and yes, I was right and I enjoy my work too).
-
-I’m passionate about open source and open collaboration. Throughout my career, I’ve successfully introduced engineering and collaboration practices to enterprises, especially within multi-cloud environments like AWS, Azure, and GCP. I’ve also contributed to the Kubernetes ecosystem and have a strong focus on IAM and security.
-
-My achievements are deeply rooted in the support I’ve received from family, friends, colleagues, and the vibrant open-source community. I've had the privilege of mentoring engineers, advising startups, and volunteering at nonprofits—one of which led me to meet my wonderful wife.
-
-While I’ve experienced both successes and failures in the world of software and technology, these experiences have shaped my perspectives. I'm always open to exploring new ideas and embracing diverse viewpoints. I look forward to collaborating with you.
-
-/hsm
+*(Pronounced: her-sim-run) *
 
 
-<!--
-**harsimranmaan/harsimranmaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technology Leader | Cybersecurity | Cloud Architecture | AI & Automation
 
-Here are some ideas to get you started:
+I’m a technology leader passionate about building secure, scalable, and intelligent technology solutions. My work sits at the intersection of cybersecurity, cloud engineering, AI, and technology strategy, translating complex technical challenges into practical business outcomes.
+
+I enjoy exploring emerging technologies, designing resilient architectures, modernizing engineering practices, and building solutions that make organizations more secure, efficient, and innovative.
+
+### Areas of Focus
+
+* Cybersecurity & Risk: Security architecture, cloud security, vulnerability management, security operations, and governance.
+* Cloud & Infrastructure: AWS, cloud-native architecture, infrastructure as code, DevSecOps, and platform engineering.
+* AI & Automation: Applied AI, autonomous agents, intelligent analytics, and workflow automation.
+* Technology Leadership: Engineering strategy, technical transformation, operational excellence, and building high-performing teams.
+
+### What I’m Exploring
+
+* Applying AI and intelligent agents to enterprise workflows.
+* Building locally hosted AI solutions for privacy-sensitive workloads.
+* Advancing cloud security and infrastructure automation.
+* Exploring open-source technologies that solve real-world problems.
+
+My philosophy: Technology should not just solve today’s problems; it should create the foundation for what’s possible tomorrow.
+
+Always learning. 
+Always building. 
+Always exploring.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
